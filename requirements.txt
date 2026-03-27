@@ -1,0 +1,8 @@
+
+torch>=2.0
+torchvision
+gym>=0.26
+numpy
+opencv-python
+tensorboard
+matplotlib
